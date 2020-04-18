@@ -1,6 +1,5 @@
 #include "../include/uart.h"
 #include "../include/util.h"
-#include "../include/reboot.h"
 #include "../include/mbox.h"
 #include "../include/get_HW_info.h"
 #include "../include/irq.h"
